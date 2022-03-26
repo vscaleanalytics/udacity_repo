@@ -5,3 +5,6 @@ git fetch
 git add
 git commit
 git ignore
+git push
+git checkout
+git branch -d 
